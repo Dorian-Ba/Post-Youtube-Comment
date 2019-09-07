@@ -17,7 +17,7 @@ def delay(n):
 def delay_mini(n):
     time.sleep(uniform(0.1, n))
 
-def write_comment(nb_video):
+def write_comment(nb_video,comment):
     profile = webdriver.FirefoxProfile()
     driver = webdriver.Firefox(firefox_profile=profile, executable_path=r'C:\Users\dorian\Desktop\geckodriver.exe')
 
@@ -89,9 +89,10 @@ def write_comment(nb_video):
             box = WebDriverWait(driver, 10).until(expect.presence_of_element_located((By.ID, "simplebox-placeholder")))
             box.click()
             box = WebDriverWait(driver, 10).until(expect.presence_of_element_located((By.ID, "contenteditable-root")))
-            box.send_keys("I have been using this trading robot and I have a very good profit\n")
-            box.send_keys("Here is a demo: https://www.youtube.com/watch?v=GgX0ADjLxok&t\n")
-            box.send_keys("I bought this EA in MQL market:https://www.mql5.com/en/market/product/24726 \n")
+
+            for c in comment:
+                box.send_keys(c)
+
             box.send_keys(Keys.CONTROL, Keys.ENTER)
         except TimeoutException as inst:
             error_log_file.write('TimeoutException for the id {} \n'.format(idyoutube))
@@ -109,4 +110,9 @@ def write_comment(nb_video):
     file_id.close()
     error_log_file.close()
     log_file.close()
-write_comment(10)
+
+if __name__ == "__main__":
+    comment=["I have been using this trading robot and I have a very good profit\n",
+             "Here is a demo: https://www.youtube.com/watch?v=GgX0ADjLxok&t\n",
+             "I bought this EA in MQL market:https://www.mql5.com/en/market/product/24726 \n"]
+    write_comment(10,comment)
