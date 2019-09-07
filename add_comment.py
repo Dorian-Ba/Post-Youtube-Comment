@@ -19,7 +19,7 @@ def delay_mini(n):
 
 def write_comment(nb_video,comment):
     profile = webdriver.FirefoxProfile()
-    driver = webdriver.Firefox(firefox_profile=profile, executable_path=r'C:\Users\dorian\Desktop\geckodriver.exe')
+    driver = webdriver.Firefox(firefox_profile=profile, executable_path=r'geckodriver.exe')
 
     driver.get("https://www.youtube.com")
     print("enter " + driver.title)
