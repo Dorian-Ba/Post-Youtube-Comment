@@ -1,0 +1,58 @@
+
+Message: Element <yt-formatted-string id="simplebox-placeholder" class="style-scope ytd-comment-simplebox-renderer"> is not clickable at point (234.625,20.5) because another element <div id="container" class="style-scope ytd-masthead"> obscures it
+ for the id HBTHKNLaAJc
+ 
+Message: Element <yt-formatted-string id="simplebox-placeholder" class="style-scope ytd-comment-simplebox-renderer"> is not clickable at point (182.125,11.5) because another element <div id="container" class="style-scope ytd-masthead"> obscures it
+ for the id Zwsbc6oR6gU
+
+Message: Element <yt-formatted-string id="simplebox-placeholder" class="style-scope ytd-comment-simplebox-renderer"> is not clickable at point (182.125,2.5) because another element <div id="container" class="style-scope ytd-masthead"> obscures it
+ for the id DmIBwiumksU
+ 
+Message: Element <yt-formatted-string id="simplebox-placeholder" class="style-scope ytd-comment-simplebox-renderer"> is not clickable at point (182.125,2.5) because another element <div id="container" class="style-scope ytd-masthead"> obscures it
+ for the id wL-A6FINST8
+ 
+Message: Element <yt-formatted-string id="simplebox-placeholder" class="style-scope ytd-comment-simplebox-renderer"> is not clickable at point (234.625,2.5) because another element <div id="container" class="style-scope ytd-masthead"> obscures it
+ for the id jo4z26THnpo
+ 
+Message: Element <yt-formatted-string id="simplebox-placeholder" class="style-scope ytd-comment-simplebox-renderer"> is not clickable at point (182.125,2.5) because another element <div id="container" class="style-scope ytd-masthead"> obscures it
+ for the id yk-0TVc9Jfk
+ 
+Message: Element <yt-formatted-string id="simplebox-placeholder" class="style-scope ytd-comment-simplebox-renderer"> is not clickable at point (233.19166564941406,2.491668701171875) because another element <div id="container" class="style-scope ytd-masthead"> obscures it
+ for the id OwE9XLviwbo
+ 
+Message: Element <yt-formatted-string id="simplebox-placeholder" class="style-scope ytd-comment-simplebox-renderer"> is not clickable at point (182.125,2.5) because another element <div id="container" class="style-scope ytd-masthead"> obscures it
+ for the id lf0h_Qnh_QM
+
+Message: Element <yt-formatted-string id="simplebox-placeholder" class="style-scope ytd-comment-simplebox-renderer"> is not clickable at point (182.125,2.5) because another element <div id="container" class="style-scope ytd-masthead"> obscures it
+ for the id h_eX9wIcL4w
+ 
+Message: Element <yt-formatted-string id="simplebox-placeholder" class="style-scope ytd-comment-simplebox-renderer"> is not clickable at point (227.09165954589844,2.5) because another element <div id="container" class="style-scope ytd-masthead"> obscures it
+ for the id FhqGNbgsBLg
+ 
+Message: Element <yt-formatted-string id="simplebox-placeholder" class="style-scope ytd-comment-simplebox-renderer"> is not clickable at point (234.625,2.5) because another element <div id="container" class="style-scope ytd-masthead"> obscures it
+ for the id vyZtp_T9oCs
+ 
+Message: Element <yt-formatted-string id="simplebox-placeholder" class="style-scope ytd-comment-simplebox-renderer"> is not clickable at point (182.125,2.5) because another element <div id="container" class="style-scope ytd-masthead"> obscures it
+ for the id -J86DHl9vY8
+ 
+Message: Element <yt-formatted-string id="simplebox-placeholder" class="style-scope ytd-comment-simplebox-renderer"> is not clickable at point (191.625,2.5) because another element <div id="container" class="style-scope ytd-masthead"> obscures it
+ for the id lSIlHP7_eOQ
+ 
+Message: Element <yt-formatted-string id="simplebox-placeholder" class="style-scope ytd-comment-simplebox-renderer"> is not clickable at point (182.125,4.3083343505859375) because another element <div id="container" class="style-scope ytd-masthead"> obscures it
+ for the id lToi8F4fS2M
+ 
+Message: Element <yt-formatted-string id="simplebox-placeholder" class="style-scope ytd-comment-simplebox-renderer"> is not clickable at point (182.125,2.5) because another element <div id="container" class="style-scope ytd-masthead"> obscures it
+ for the id 75_GCYdeubY
+
+Message: Element <yt-formatted-string id="simplebox-placeholder" class="style-scope ytd-comment-simplebox-renderer"> is not clickable at point (182.125,2.491668701171875) because another element <div id="container" class="style-scope ytd-masthead"> obscures it
+ for the id 3W9OmDY-seo
+
+Message: Element <yt-formatted-string id="simplebox-placeholder" class="style-scope ytd-comment-simplebox-renderer"> is not clickable at point (234.625,2.5) because another element <div id="container" class="style-scope ytd-masthead"> obscures it
+ for the id 1DWqUZTbG0A
+ 
+Message: Element <yt-formatted-string id="simplebox-placeholder" class="style-scope ytd-comment-simplebox-renderer"> is not clickable at point (182.125,2.5) because another element <div id="container" class="style-scope ytd-masthead"> obscures it
+ for the id MBe4mZCJeaw
+ 
+Message: Element <yt-formatted-string id="simplebox-placeholder" class="style-scope ytd-comment-simplebox-renderer"> is not clickable at point (182.125,2.5) because another element <div id="container" class="style-scope ytd-masthead"> obscures it
+ for the id KtpVTwD9x-M
+ 
