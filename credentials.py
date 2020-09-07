@@ -1,2 +1,2 @@
-email="oleg.krugir@gmail.com"
-email_password="Azerty75"
+email="email@gmail.com"
+email_password="password"
